@@ -19,9 +19,11 @@ Concomitante:
   Grid computacional
   fracamente acoplados
   cpu
+  sistemas heterogeneos
+  baixo desemp
 
 Paralelo:
   Cluster computacional
   fortemente alocados
   gpu e multicores
-
+  sistemas homogeneos
