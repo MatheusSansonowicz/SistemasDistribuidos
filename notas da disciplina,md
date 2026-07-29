@@ -7,3 +7,21 @@ maldito tcpip
 arquitetura para multiuso simultâneo
 
 organizar certinho código
+
+Um soquete de rede é um ponto final de um fluxo de comunicação entre
+processos através de uma rede de computadores. Hoje em dia, 
+a maioria da comunicação entre computadores é baseada no Protocolo de Internet,
+portanto a maioria dos soquetes de rede são soquetes de Internet.
+
+processamento Concomitante vs paralelo
+
+Concomitante:
+  Grid computacional
+  fracamente acoplados
+  cpu
+
+Paralelo:
+  Cluster computacional
+  fortemente alocados
+  gpu e multicores
+
